@@ -1,4 +1,4 @@
-Bootstrapped from anurushp's [2022 attempt](https://github.com/anurudhp/aoc2022). Would like to add some automation for puzzle pulling when I get time.
+Bootstrapped from anurudhp's [2022 attempt](https://github.com/anurudhp/aoc2022). Would like to add some automation for puzzle pulling when I get time.
 
 ## General notes
 + Some small optimizations in Day02 that could be simple enough for a proof.
