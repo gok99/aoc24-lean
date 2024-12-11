@@ -22,3 +22,7 @@ lean_exe day04 { root := `Aoc.Day04 }
 lean_exe day05 { root := `Aoc.Day05 }
 lean_exe day06 { root := `Aoc.Day06 }
 lean_exe day07 { root := `Aoc.Day07 }
+lean_exe day08 { root := `Aoc.Day08 }
+lean_exe day09 { root := `Aoc.Day09 }
+lean_exe day10 { root := `Aoc.Day10 }
+lean_exe day11 { root := `Aoc.Day11 }
